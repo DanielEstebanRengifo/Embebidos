@@ -1,3 +1,4 @@
+//NO ES LA VERSION FINAL ES UN BORRADOR 
 #include "StateMachineLib.h"
 #include "DHT.h"
 #include "AsyncTaskLib.h"
